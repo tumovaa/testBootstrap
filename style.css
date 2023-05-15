@@ -51,8 +51,8 @@ body {
 
 /* Active/current link */
 .navbar a.active {
-  background-color: #666;
-  color: white;
+  background-color: rgb(154, 210, 255);
+  color: rgb(0, 0, 0);/*otázka7*/
 }
 
 /* Column container */
