@@ -64,8 +64,9 @@ body {
 /* Sidebar/left column */
 .side {
   flex: 30%;
-  background-color: #f1f1f1;
+  background-color: #000000;
   padding: 20px;
+  color: #fff;/*otázka6*/
 }
 
 /* Main column */
