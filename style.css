@@ -11,7 +11,7 @@ body {
 /* Header/logo Title */
 .header {
   padding: 110px;
-  text-align: center;
+  text-align: left;/*otázka10*/
   background-image: url("./images/landscape.jpg");
 }
 
